@@ -1,0 +1,7 @@
+{
+  "examples/components": {
+    "title": "Components",
+    "view": "vuci-app-components",
+    "index": 10
+  }
+}
